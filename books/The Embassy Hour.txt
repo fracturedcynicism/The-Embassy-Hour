@@ -1,3 +1,4 @@
+By Fractured Cynicism
 ---
 Chapter 1: Marigold
 The call came at 2:47 in the morning.
@@ -16,10 +17,11 @@ Her name was Preetinder Kaur. Her husband, Tariq Siddiqui, a photojournalist, ha
 Pranidhi understood the logic. He also understood that a man who had maintained that precaution for years had done so because he had correctly estimated the risk. Which meant whatever Tariq had gone into that embassy to do, the danger had been precisely as high as he'd calculated.
 "What word was he supposed to say?" Pranidhi asked. "When he was safe."
 A pause. Then, quietly: "Marigold."
+"He bought them every Thursday," she said. "From the old man at the corner of Shor Bazaar. Orange ones. The flat smelled like a temple by Friday." Her breath caught on something that was not quite a laugh. "He said nobody suspects a man who carries flowers."
 No word had come. Which was itself a word.
 "I'll find him," Pranidhi said.
 He almost believed it.
-He was already pulling on his jacket. On the street the night air was warm and still, carrying dust and diesel and something harder to name — the smell of a city beginning to let go of things it can no longer carry. He stood on the pavement before getting into the waiting car and looked north. The mountains were invisible in the dark, but he had learned to feel their direction the way you learn a room: by what the air does near the walls.
+He dressed without turning on the light: shirt, trousers, the jacket with the inside pocket that held the notebook and the pencil. He had done this in four countries and had never once needed to look. On the street the night air was warm and still, carrying dust and diesel and something harder to name — the smell of a city beginning to let go of things it can no longer carry. He stood on the pavement before getting into the waiting car and looked north. The mountains were invisible in the dark, but he had learned to feel their direction the way you learn a room: by what the air does near the walls.
 Somewhere in that direction, eighteen kilometres closer than they had been a week ago, men were moving with patience and momentum through checkpoints that had stopped checking.
 He got in the car and went to work.
 ---
@@ -34,6 +36,11 @@ Dawit Karimi met him at the inner gate. Afghan police inspector, twenty-six, in 
 "What do you know?" Dawit asked, falling into step.
 "Not enough. Too much," Pranidhi said, and walked inside.
 Dawit followed without asking what that meant. Which told Pranidhi something about him.
+"How long have you been inside this building?" Pranidhi asked.
+"Nine days. Six years on the force." Dawit's eyes went to the ceiling fans, the plastic chairs, the boy asleep against his mother. "Nobody here has decided what to make of me yet."
+"That's useful."
+"For how long?"
+"Until someone does."
 In the duty office, a file had been assembled: Tariq Siddiqui, forty-one, Pakistani national, press credentials from four international agencies. Entry logged at 12:04 PM by consular clerk Rehman. Assigned to processing corridor seven. No exit logged. No record of any secondary procedure that would account for the duration. A gap in the paperwork that should not exist in a building whose paperwork was its entire architecture.
 Attached to the file: a photograph. Tariq at some earlier event, standing among journalists, taller than most of them, wearing a camera vest with too many pockets. He was laughing at something outside the frame. The laugh had reached his eyes. Pranidhi noted this and closed the file.
 The UN Security Council had already been notified. An unsolved disappearance inside a diplomatic mission — Article 22, Vienna Convention — in a country mid-collapse, with Pakistan, India, and China all watching. Careers would end over this. Ambassadors would be expelled. Alliances would fracture along fault lines that had been forming for a decade. And the men who wanted chaos most were eighteen kilometres away and closing.
@@ -51,13 +58,16 @@ The embassy's layout had already told him something useful. The lobby opened int
 He sat in the review room for four hours. It was a repurposed storage space on the ground floor — two chairs, a monitor, a socket strip running cables to the hard drives that fed the working cameras. The room smelled of old circuit boards and the particular dust of electronics kept in spaces nobody aired. Pranidhi sat in the better chair and watched.
 The lobby footage told him this: Tariq Siddiqui entered at 12:04 PM — camera bag over one shoulder, moving with the unhurried confidence of a man who had covered three wars and found passport bureaucracy beneath his dignity. He paused at the reception desk for forty seconds — long enough to give his name and be recognised, not long enough to fill out anything. Then consular clerk Rehman appeared at the inner door and held it open.
 Pranidhi watched Rehman's hands while he held the door. Steady. Practised steadiness, but the kind that requires maintenance.
-At 12:31, Rehman returned to the lobby alone. He paused at the water cooler for eleven seconds — long enough to look like he was drinking, too short to actually swallow — then moved to the filing room. Pranidhi ran the file room timestamp: Rehman entered at 12:31:44 and exited at 12:35:51. Four minutes and seven seconds in a room with rows of dead-document binders and a false-panel cavity in the south wall that he would know about because his desk was twelve feet from it and he had been working in this building for three years.
-Pranidhi rewound to the water cooler. Watched Rehman's eleven seconds again. The cooler was positioned at the lobby's northwest corner, adjacent to the waiting area seating. At 12:33 — two minutes after Rehman returned from the filing room and was back at his desk — a woman entered the lobby.
-She cited a lost document reference to the duty officer, delivering the information with the specific fluency of someone who has practised saying it until it no longer sounds practised. She took a seat in the waiting area, facing forward. Over ninety minutes she did not look at her phone. She did not read the magazine she picked up and then put back. She looked at the middle distance with the careful incuriosity of someone watching a specific thing and very much not wanting to appear to be watching it.
-At 12:31 — while Rehman was still in the filing room, before this woman had entered — the brush pass had not yet happened.
-He underlined in his notebook: She came in two minutes after Rehman returned. The pass was on his way back to his desk, not on the way to the filing room. She passed him something at the cooler after he had already been to the room. So what did he do in the filing room without the key she was bringing him?
-He sat with the question long enough for it to acquire a different shape.
-The filing room was where the records were kept. The records room — adjacent, same corridor — was where the false panel was. Rehman hadn't gone to collect anything. He had gone to confirm something was still there.
+At 12:31, Rehman returned to the lobby alone. He paused at the water cooler for eleven seconds — long enough to look like he was drinking, too short to actually swallow — then crossed to the filing room. The timestamp on its door: in at 12:31:44, out at 12:35:51. Four minutes and seven seconds in a room of dead-document binders, twelve feet from the desk he had occupied for three years.
+At 12:33, while Rehman was still behind that door, a woman entered the lobby.
+She gave the duty officer a lost document reference, delivering it with the fluency of someone who has said a sentence so often it no longer sounds rehearsed. She took a chair in the waiting area facing the consular door. She picked up a magazine and did not open it. For ninety minutes she did not look at her phone, did not shift her weight the way bored people do, did not glance at the clock. She watched the middle distance with the careful incuriosity of someone watching one specific thing and very much not wanting to appear to.
+Pranidhi ran the document reference through the embassy filing index.
+It didn't exist.
+He wrote in his notebook: Samira Ghilzai — legend incomplete. File ref fabricated. Not here for a document. Here to watch. Then underlined: What was she waiting to see?
+He went back to Rehman. At 12:36, one minute after the filing room door opened, Rehman walked to the water cooler a second time. The woman rose from her chair at the same moment and went to the cooler with a paper cup. The two of them occupied the same four feet of floor for under a second. Neither looked at the other. Nothing the lobby camera could resolve changed hands.
+But Rehman's right hand went into his trouser pocket afterwards, and stayed there.
+Pranidhi rewound it six times. The pass was at 12:36, after the filing room. Not before. So what did he go into that room to do without the thing she brought him? He sat with the question until it changed shape. The filing room backed onto the records room. Rehman hadn't gone to collect anything. He had gone to confirm something was still there.
+Then he took the notebook into the corridor and walked the geometry himself. From the consular entrance to the door of room seven: twenty-six paces. From room seven to the service door at the far end: forty-one more. Sixty-seven paces, two doors, no lens on either. A man who knew the building could cross it in under a minute and never be anywhere a camera had looked.
 In the corridor outside the review room, Dawit was leaning against the wall with his arms crossed, watching the light change through the building's only north-facing window. The sound coming through the walls was different from an hour ago. Not louder. More directional.
 "We have maybe one day," Dawit said when Pranidhi came out.
 "Then I'll need one day."
@@ -97,6 +107,7 @@ Pranidhi interrupted him to say, casually, that Tariq's camera bag had been foun
 Haidari absorbed this. "That's — good news, presumably?"
 "Presumably," Pranidhi said, and changed the subject.
 Haidari's eyes went to his face for the first time. Just once. And then away.
+At the door he paused. "Thank you, Mr Haidari," Pranidhi said, in the voice reserved for strangers. Neither of them had met the other's eye in two days. The performance was the job, even with his own.
 The fourth conversation was with Nadia Osman, the Afghan nurse who had been waiting for three months on a visa renewal in a country that was quietly ceasing to issue them. She came in with a glass of water she had brought herself and sat with her hands around it on the table, and she answered every question directly and without qualification and in such complete sentences that Pranidhi initially read it as scripted and then understood it was simply how she spoke — the habit of someone whose professional life required precision about things that had consequences.
 He told her, with appropriate gravity, that the ambassador himself had been questioned.
 "As a suspect?" she said.
@@ -106,14 +117,19 @@ She thought about this for a moment. Not with surprise — with the specific tho
 "I know." She finished her water. "I've been here three months. I've had time to think."
 The fifth conversation was with Samira Ghilzai. He offered her the same interview room, the same chair, the same glass of water. He told her he had a few routine questions. Then he said nothing. He waited.
 She waited too. With the composure of someone who had been trained to wait — not patience, exactly, but the professional equivalent of it: a settled readiness that had nothing to prove. She treated the silence the way she had treated the ninety minutes in the waiting room, the way she had treated the false document reference — as furniture. Present in the room, requiring nothing from her.
-He thanked her for her time.
+When she finally spoke, it was to ask, pleasantly, "Is there something you would like me to say?"
+"No."
+"Then I think we understand each other," Samira said, and rose, and thanked him.
+The sixth suspect he did not interview. The Ambassador's diary was full, said his secretary, for a man whose building was emptying around him. Pranidhi did not press. He had seen Qureshi once, crossing the lobby at midday: sixty, silver at the temples, greeting each clerk by name and ceasing to listen before the clerk had finished answering. He walked like a man carrying out instructions with great courtesy. Pranidhi left that door closed on purpose and watched who looked at it.
+Three of them did.
 Different seeds. Different birds. Whoever sang back the wrong note had been talking to someone they shouldn't.
 Dawit sat outside each interview room and watched the faces coming out. He didn't need to hear the questions. He had spent six years reading exits — the way a person holds a door when they want to leave a room faster than their body is already moving, the way the eyes go somewhere private for a half-second before resetting to neutral. After the fifth interview he wrote two words in his notebook and circled them. He didn't show Pranidhi until later. He wasn't ready to show Pranidhi until he was sure.
+Ten minutes after Pranidhi finished with him, Rehman walked into the staff washroom and was sick, quietly, the way a man is sick when he has practised not being heard. Dawit held the door afterwards, handed him a paper towel, and said nothing. Rehman said nothing back. It was the most honest exchange of the day.
 The Taliban took the eastern approach road that evening. Pranidhi heard it on the duty officer's radio — a burst of Pashto, a pause, then the officer switching frequencies with his face doing nothing whatsoever. Nobody in the building mentioned it. Nobody had to. You could hear it in the way people moved through the corridors for the next hour — slightly faster, slightly quieter, the small adjustments of bodies that have received information their minds haven't yet processed but their feet have already responded to.
 The number was down to eighteen kilometres. Then sixteen. The fever running its last calculation.
 ---
 Chapter 5: Trojan Horse
-By the second evening the embassy's internal phone log showed a call placed from Haidari's extension at 11:47 PM to an outside number that routed through three exchanges before resolving. Pranidhi had seen that routing pattern before. RAW — Indian foreign intelligence. The camera bag detail had come back through channels it should never have reached.
+By the second evening the embassy's internal phone log showed a call placed the night before from Haidari's extension at 11:47 PM to an outside number that routed through three exchanges before resolving. Pranidhi had seen that routing pattern before. RAW — Indian foreign intelligence. The camera bag detail had come back through channels it should never have reached.
 Haidari wasn't an overhelpful clerk.
 He was Pranidhi's own contact inside the building, placed six weeks before the investigation began, before anyone knew an investigation would be needed. The man had been running protective surveillance on Pranidhi's behalf since the day Tariq walked in. Which meant the canary seed planted with Haidari — the camera bag has been found — had not been the leak. He had called Delhi through a clean channel with something else. Something Pranidhi hadn't given him.
 He sat with that for a long moment. Haidari had been protecting a channel, not a secret. The call to RAW was not a betrayal — it was a handoff. Haidari had something that needed to reach somewhere that could act on it before Kabul made the action irrelevant, and he had used the architecture Pranidhi had given him to send it.
@@ -123,7 +139,7 @@ Haidari arrived with tea. He set one cup in front of Pranidhi, one in front of h
 "You know what I'm going to ask," Pranidhi said.
 "Yes." Haidari looked at the tea. "I've been deciding whether to say it since yesterday morning."
 "What decided you?"
-"The corridor." He didn't elaborate. He meant the east corridor at 23:58 — a thing he had seen from the stairwell that he was not supposed to have seen because he was not supposed to have been in the building at that hour.
+"Rehman." Haidari turned the cup a quarter-turn on its saucer. "I passed him outside the washroom after you were finished with him. He was the colour of the wall. A man that frightened isn't hiding a crime. He's hiding a person. Someone who can reach his family."
 "The camera in the consular section," Haidari said quietly. "It was working when Tariq came in. I watched Rehman disable it afterward. But Rehman doesn't have the access code."
 "Who does?"
 Haidari looked at the connecting door to the adjacent office. Then back. His voice dropped another register.
@@ -132,7 +148,8 @@ Outside, a generator kicked on somewhere in the building. The lights had been fl
 "You should have told me earlier," Pranidhi said.
 "Yes," Haidari said. He did not apologise for it.
 Pranidhi dismissed him and sat alone for a moment in the flickering room. The question wasn't why Haidari had waited. The question was what he had been protecting while he waited — and whether protecting it had been the right call, and whether Pranidhi was in any position to judge a man for caution, sitting in this building in this city at this hour.
-He picked up his notebook and went to find the Ambassador.
+He picked up his notebook. In the stairwell, between the second floor and the first, he stopped under the one bulb that was steady and wrote a number from memory — ten digits, the Delhi duty station — and drew a small star beside it in pencil. He tore the page out, folded it twice, and slid it into the lining of his jacket, away from the notebook. Habit. The thing worth keeping should never travel in the same pocket as the thing worth losing.
+Then he went to find the Ambassador.
 ---
 Chapter 6: Nightingale
 Dawit found Pranidhi on the floor of the east corridor at 23:58, alive by a margin that wouldn't survive close measurement.
@@ -141,7 +158,7 @@ Nadia Osman was already crouched beside him. The woman from the waiting room —
 She had heard the sound from the corridor and walked toward it rather than away from it. That was the distinction that separated her, Dawit would later think, from approximately thirty-nine of every forty people.
 Her scarf was pressed against Pranidhi's side. She was talking to him low and steady in Dari, the register nurses use when what they are actually doing is keeping a person tethered to consciousness by the sound of another voice — not because the words matter, but because stopping would matter.
 Her hands were dark with it. She didn't seem to notice.
-Three metres along the wall, Ambassador Qureshi sat breathing in the shallow way of a man whose body has issued a verdict his mind is still appealing. He had been looking at a fixed point on the floor between his feet since before Dawit arrived, and he was going to go on looking at it. He made one attempt to speak when Dawit entered the corridor — a small preparatory sound, the beginning of something — and then closed his mouth again with the expression of a man who has understood that no version of the next sentence helps him.
+Three metres along the wall, Ambassador Qureshi sat breathing in the shallow way of a man whose body has issued a verdict his mind is still appealing. His left sleeve was dark to the elbow, and he had made no move to touch it. He had been looking at a fixed point on the floor between his feet since before Dawit arrived, and he was going to go on looking at it. He made one attempt to speak when Dawit entered the corridor — a small preparatory sound, the beginning of something — and then closed his mouth again with the expression of a man who has understood that no version of the next sentence helps him.
 Dawit looked at Pranidhi. At the floor. At the distance between where he lay and the connecting door to the Ambassador's office, which was ajar, which had not been ajar an hour ago when Dawit had last passed this corridor. The connecting door was an architectural fact he had noted on the first walkthrough and filed under: interesting, irrelevant. It was relevant now.
 He did not ask what happened. The corridor had already answered that.
 Pranidhi opened his eyes. Found Dawit's face with the focus of a man spending something he has a limited supply of.
@@ -159,17 +176,27 @@ She looked at Dawit steadily. Through the window behind him, the sound of vehicl
 "Will it matter?" she said. "What I saw. With everything that's—" She didn't finish. She looked at the window instead, at the specific quality of night that had settled over the city in the last hour, which was different from the night that had been there before.
 Dawit thought of the torn page in his hand. Of the annotated star. Of the forty minutes he had before the Security Council session Pranidhi would not be attending.
 "It already has," he said.
+Behind him, the low Dari stopped.
+Not trailed off. Stopped, mid-word, the way a tap stops.
+Nadia's hands stayed where they were, pressed flat to the soaked scarf. She did not look up. She did not say anything at all. In the corridor the only sounds were the generator and, somewhere below, a dog that barked once and went quiet. Nothing answered it.
+Dawit did not turn around. He put the torn page in his shirt pocket and buttoned it.
 ---
 Chapter 7: The Sands of Time
-He read the notebook in the ambassador's office with Qureshi still breathing on the far side of the room and the sound of Kabul rearranging itself filtering through the walls. Pranidhi's handwriting was compressed — the script of a man rationing time.
+He read the notebook at the Ambassador's desk, the connecting door open on the corridor where Qureshi still sat against the wall, the sound of Kabul rearranging itself filtering through the plaster. Pranidhi's handwriting was compressed — the script of a man rationing time.
 Rehman, twenty-nine. Family in Lahore, mother unwell, monthly remittances sent on a salary that doesn't quite cover them. During interview, eyes moved twice to the connecting door. Not afraid of me. Afraid of something behind it. Leveraged. Someone found his price and paid it.
-Dawit looked up from the notebook. Across the room, Qureshi had not changed position. He was a man of perhaps sixty with the bearing of someone who had spent a career performing authority and had reached a moment where the performance had failed and the thing underneath it — which was smaller than the performance suggested — was now visible. He breathed. More than that was unclear.
+Dawit looked up from the notebook. Through the open door, Qureshi had not changed position. He was a man of perhaps sixty with the bearing of someone who had spent a career performing authority and had reached a moment where the performance had failed and the thing underneath it — which was smaller than the performance suggested — was now visible. He breathed. More than that was unclear.
 Afridi. Left at 12:55 — logged, timestamped, gate guard corroborated. Too clean. His vehicle re-entered through the service entrance at 13:40. Not in the gate log. Service entrance has no camera. Connects directly to the processing corridor. He was inside when it happened.
-The brush pass at the water cooler — Samira to Rehman, 12:31, lobby camera. Not documents. Too small. A room key. Processing room locked from inside. Twenty minutes. Then Afridi back through the service entrance, out through the front, timestamped, alibi intact.
+The brush pass at the water cooler — Samira to Rehman, 12:36, lobby camera. Not documents. Too small. A room key. Processing room locked from inside. Twenty minutes. Then Afridi back through the service entrance, out through the front, timestamped, alibi intact.
 Dawit thought about the architecture. The service entrance he had walked past twice without needing to think about it. The processing corridor with no camera on either end. The false panel in the records room, the camera bag behind it. Every element of this had been placed — not improvised. The camera fault logged six weeks before. The service entrance memorised, the gate log known to be unsupervised. Someone had mapped this building with the specific attention of someone planning to use it.
 Camera bag in the records room — behind the false panel. Rehman's eyes went there twice in the first interview. He couldn't stop looking at what he was protecting.
 Qureshi gave Rehman the access code. Did not originate the order. Too frightened to give orders — takes them. Follow the chain up.
 He paused on that entry. Qureshi had given the access code. That was the thing Haidari had been carrying — not the code itself, but the knowledge of who had given it, which was a different weight entirely. It meant the chain ran through the ambassador and through the trade attaché and through the ISI logistics operative in the waiting room, and somewhere at the top of that chain was a decision that had been made before Tariq Siddiqui had known he was going to walk into this building.
+He went to the doorway and crouched in front of Qureshi, close enough to see the grey in the man's stubble.
+"The code for the consular camera. Where did it come from?"
+Qureshi's eyes stayed on the floor. "A form." His voice was dry paper. "It arrived on a form, Inspector, with a reference number and a signature I recognised. One doesn't ask what a form is for."
+"And afterwards? When you knew what it had been for?"
+The Ambassador looked at his sleeve, and then, for the first time, at Dawit. He had the face of a man trying to remember the last time he had been asked something he could not answer with procedure.
+"I signed the log," he said. "Correctly."
 Samira — ISI logistics designation, flagged Karachi 2019, never apprehended. Did not come to act. Came to confirm. Which means the actor was already inside.
 Calling the meeting for tomorrow. All principals. Reception hall. If I'm not there by 2:30 — Karimi finds me first. He's clean. I think. But I didn't survive this long by thinking.
 Dawit closed the notebook.
@@ -217,13 +244,19 @@ A silence. Rehman's hands moved on the desk — not the concealing movement from
 "The camera bag."
 "I didn't know what was in it. I still don't." He paused. "I know it doesn't matter that I didn't know."
 "No," Dawit said. "It doesn't."
+"The key," Dawit said. "Twelve thirty-six. The water cooler."
+"She put it in my palm like change." Rehman's thumb moved against his forefinger, rubbing something that was no longer there. "At ten to one I carried it to the service door and Afridi's driver took it from me. I never saw Afridi at all. I went back to my desk and filed passport applications." A sound came out of him that wasn't a laugh. "Eleven. I did them properly."
+"Did you hear anything? From the corridor."
+"No." Too quickly. Then, because Dawit waited, again, slower. "That is what I keep — there was no sound. I thought there would be sound."
+"And after?"
+"At two the service door was propped open. Afridi's driver was loading the boot of the car. I was on my way to the records room to look at the bag. I didn't look at the boot." He raised his eyes. "I want you to write that down. That I didn't look."
 Outside, somewhere, a burst of automatic fire, then the specific silence that follows when everyone is deciding what to do next rather than responding to what just happened. Rehman didn't flinch. He had been hearing it intermittently for hours and had distributed it into the background, the way the body processes sounds it cannot act on.
 "Where is Afridi now?" Dawit said.
 Rehman looked at the ceiling for a moment. Finding the last thing. "He didn't leave."
 Dawit was already moving.
 ---
 Chapter 10: Close Encounters
-The service entrance was at the far end of the east corridor — the same corridor where Pranidhi lay, where Qureshi was bleeding out against the wall, where the building's one remaining security guard had last been seen twenty minutes ago and hadn't been seen since.
+The service entrance was at the far end of the east corridor — the same corridor where Pranidhi lay, where Qureshi was bleeding out against the wall, where the guard posted to the east wing had last been seen twenty minutes ago and hadn't been seen since.
 The lights were on emergency power. Every thirty seconds they flickered — a half-second of darkness in which anything could happen, and the corridor was long enough that the far end was always in partial shadow regardless. Dawit had walked this corridor three times since arriving in the building. He had not previously needed to think about what it would look like as a tactical problem.
 He thought about it now.
 He moved with his back to the wall, pistol drawn, left shoulder brushing the plaster. The training came back in the order it was needed — not as a sequence but as a set of instincts activating in response to specific stimuli. Corners first. Doorways second. Open space last. Moving targets in long corridors cost the shooter something. Static ones cost nothing.
@@ -248,16 +281,23 @@ Afridi smiled. Not warmly. With the professional appreciation of a man who has j
 "Keep talking," Dawit said. "Or start walking."
 Afridi's right hand moved half a centimetre toward his hip.
 The lights flickered.
-Dawit dropped to one knee, barrel up. The darkness lasted one second — long enough for a shot, long enough to die. He heard nothing in it. Not a footstep, not the scrape of leather on a holster, not the compressed sound of a man who has made a decision and is acting on it. Trained men don't telegraph. The silence told him precisely nothing.
-He held position. Barrel up. Floor cold through his knee. The diesel rumble from outside had grown in the last thirty seconds — he could feel it through the wall now, multiple vehicles, not stopping, the low continuous movement of a convoy that had somewhere to be.
-When the light returned Afridi's hand was still moving and Dawit's voice cut across the corridor sharp and flat:
+Dawit didn't stay where he was. He dropped to one knee and then went left — two fast paces along the wall into the recess of the bathroom door — and the dark closed over the corridor.
+One second.
+The shot came from the far end, a flat crack that filled the corridor to its walls, and in the muzzle flash he saw everything as a photograph: Afridi with the pistol at arm's length, the long tiled floor, the place where Dawit's head had been. The round took a bite out of the plaster at kneeling height. Dust hung in the afterimage.
+Dark again. Longer this time, the emergency strip stuttering and failing to catch.
+He did not fire back. A flash would tell Afridi where he was, and Afridi had just told him where he stood. He stayed folded into the doorframe with the barrel on the far end and listened.
+Under the ringing in his ears the convoy had come closer, a diesel growl in the walls, and he understood what it could give him. When the engine note swelled he moved. When it dropped he froze. Four metres along the plaster, six. Afridi's shoe scraped on tile — one step, a man advancing to the place he believed Dawit still was — and Dawit slid on until the scrape was no longer in front of him but at his shoulder.
+Trained men don't telegraph. Tile does.
+The lights caught.
+Afridi stood ten feet from the bathroom recess with his pistol raised at the empty doorframe, a man aiming at where an argument used to be. Dawit was behind his right shoulder, close enough to hear him breathe, the barrel level with the base of his skull.
 "Don't."
-One word. The weight of it was in what came after it: nothing. No second warning. No negotiation. The word had the quality of a position stated without emotion, which is the most dangerous version of a position.
-Afridi's hand stopped.
-For five seconds neither of them moved. Through the corridor's single high window, the convoy's headlights swept the wall in a moving bar of white — multiple vehicles, fast, not stopping for anything. Close enough now that the engine sounds had separated into individual sources.
-Afridi looked at the window. Then at Dawit. The calculation in his face was visible as a physical process — not fear, not defeat, but arithmetic. A man updating his model with new variables and arriving at a different answer than the one he had entered the corridor with.
+One word. The weight of it was in what came after it: nothing. No second warning, no negotiation, a position stated without emotion, which is the most dangerous version of a position.
+Afridi's arm stopped.
+For five seconds neither of them moved. The corridor's single high window filled with moving white — headlights sweeping the wall, multiple vehicles, fast, close enough now that the engines had separated into individual sources, none of them slowing for the embassy.
+Afridi's eyes went to the window, then, very slightly, to the wall in front of him, where Dawit's shadow had fallen across the plaster. The arithmetic was visible: a man replacing one set of variables with another and arriving at a smaller answer than the one he had walked in with.
+He opened his hand. The pistol hit the tile and skidded.
 He put his hands up.
-Dawit crossed the corridor in eight steps, took the sidearm, had Afridi against the wall with his wrists secured before the man could run a second calculation. Up close, Afridi smelled of sweat and something medicinal — adrenaline metabolising, the body processing what the mind was still negotiating.
+Dawit kicked the pistol clear and had Afridi against the wall with his wrists secured before the man could run a second calculation. Up close, Afridi smelled of sweat and something medicinal — adrenaline metabolising, the body processing what the mind was still negotiating.
 Afridi said nothing while Dawit worked. His face had gone to the blank professional expression of a man who has entered the portion of the situation where speech no longer improves his position. He wore it the way he had worn the performed calm — deliberately, as a tool, even when the tool was no longer doing anything.
 "Samira said you can't stop what's already moving," Dawit said.
 "She was right."
@@ -266,13 +306,16 @@ Afridi said nothing while Dawit worked. His face had gone to the blank professio
 Chapter 11: Relinquish
 Dawit transmitted everything at six in the morning — Pranidhi's notebook, the photographs, the service log, Rehman's statement, Nadia's witness account, Afridi's arrest report — through the number in Pranidhi's belongings annotated with a pencilled star, which resolved to a RAW duty station in Delhi that picked up on the first ring. Not the second. The first, as if the line had been open and waiting for exactly this call.
 They had been waiting. He understood now what Haidari had been protecting — not a person, not a secret, but the channel itself. The specific number and routing that would ensure what Pranidhi had assembled arrived somewhere capable of acting on it before Kabul made all of it historical rather than operational.
-The building was quieter than it had been at any point since he had arrived. The staff who had called in sick had been right to. The two guards who remained had positioned themselves near the main entrance and were doing the specific kind of guard work that is really just witnessing — being present while something happens so that it can later be said that someone was present when it did.
+The building was quieter than it had been at any point since he had arrived. The staff who had called in sick had been right to. The two guards who remained had positioned themselves near the main entrance and were doing the specific kind of guard work that is really just witnessing — being present while something happens so that it can later be said that someone was present when it did. The east-wing guard had been found behind the generator housing, bound with his own belt, unharmed and humiliated, which Dawit suspected was the worse injury.
 Samira Ghilzai was arrested in the reception hall without incident, sitting in the same chair she had occupied for the last four hours, as if she had decided the chair was hers regardless of outcome and intended to remain in it. She looked at Dawit without expression when he came to stand in front of her — not the performed calm that Afridi had worn, but actual stillness, the kind that comes from having understood from the beginning that this portion of the operation was designed to be expendable.
 "You can't stop what's already moving," she said again.
 "You keep saying that," Dawit said. "Start telling me what's moving."
 She looked past him at the window, at the early light coming in over the blast walls with the specific flatness of a morning that knows it is the first morning of something new and has not yet decided whether that is its business to announce.
 She said nothing. He hadn't expected her to. The conversation she would eventually have — in a facility in Delhi or Lyon or somewhere unnamed and fluorescent — would not begin with his question. It would begin with the whiteboard coordinates. With the red marker numbers that Tariq Siddiqui had framed in the background of his second shot, at the cost of everything.
 He left her in her chair and went to find Nadia.
+She was where he had left her, on the floor of the east corridor, her back against the plaster a metre from the sheet someone had found and laid over Pranidhi. She had not washed her hands. When Dawit crouched beside her she looked at them as if they belonged to a patient.
+He had nothing to say that would improve the situation, so he took the pencil from his breast pocket — the stub Pranidhi had used for the star, found under the man's hand — and held it out.
+Nadia took it without asking what it was for. She turned it once between her fingers and closed her hand around it.
 ---
 Chapter 12: Swan Song
 Dawit stood at the second-floor window as the light came fully up and watched the city complete its transformation.
@@ -289,7 +332,7 @@ The pause that followed lasted long enough to be its own answer.
 "We're working on it," the officer said.
 Dawit lowered the phone.
 He thought about the number he had for a woman named Preetinder Kaur. About what it would mean to call it. About what word he could give her that would do the work Marigold was supposed to do — carry the same information, the same relief, from a different person, under different circumstances. He didn't have a word. He filed that alongside everything else he didn't have answers for, which was a long list and was going to stay long, and which he would have to carry out of this building regardless of its length.
-Outside, the flags were closer than they had been ten minutes ago. Street by street, block by block, with the steady momentum of something that has waited a long time and is no longer in a hurry because waiting is over and what comes next is administrative. On a runway sixty kilometres north, in the early flat light of an Afghan morning, an inventory of American weapons sat in hardened bunkers — patient, indifferent, ready to belong to whoever arrived first.
+Outside, the flags were closer than they had been ten minutes ago. Street by street, block by block, with the steady momentum of something that has waited a long time and is no longer in a hurry because waiting is over and what comes next is administrative.
 His phone showed two missed calls from numbers he didn't recognise.
 He didn't answer.
 Behind him, Nadia said: "What happens now?"
@@ -297,3 +340,4 @@ He thought about Tariq Siddiqui's photograph in the camera bag. The laugh that h
 He didn't have an answer for Nadia.
 He looked north and waited for the sound of helicopters, not yet sure which kind would arrive first.
 ---
+The Embassy Hour · Fractured Cynicism
